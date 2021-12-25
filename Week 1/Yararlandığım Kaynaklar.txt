@@ -1,0 +1,8 @@
+https://howtodoinjava.com/java8/java-stream-distinct-examples/
+https://www.geeksforgeeks.org/initialize-a-static-map-using-stream-in-java/?ref=rp
+https://www.geeksforgeeks.org/difference-between-map-and-flatmap-in-java-stream/?ref=rp
+https://www.geeksforgeeks.org/stream-filter-java-examples/?ref=rp
+https://www.geeksforgeeks.org/lambda-expressions-java-8/
+https://www.youtube.com/watch?v=N3gQdIn90CI
+https://www.youtube.com/watch?v=t1-YZ6bF-g0
+https://www.techiedelight.com/get-slice-stream-java/
