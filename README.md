@@ -1,1 +1,1 @@
-# halil-can-irezRepo
+# Java Spring Bootcamp ödevleri için repo
